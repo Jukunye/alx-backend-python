@@ -2,6 +2,7 @@
 """This module contains the function wait_n"""
 
 import asyncio
+from typing import List
 
 task_wait_random = __import__('3-tasks').task_wait_random
 
